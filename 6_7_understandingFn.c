@@ -1,4 +1,4 @@
-/*P6.7*/
+/*P6.7 Get the concept of function: changing the original values by calling a function*/
 #include<stdio.h>
 void func(int a,int b);
 int main(void)
