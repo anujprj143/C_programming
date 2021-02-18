@@ -1,4 +1,4 @@
-/*P6.17 Reverse a given number*/
+/*P6.17 Creating a function to Reverse a given number*/
 #include<stdio.h>
 int reverse(int n);
 int main(void)

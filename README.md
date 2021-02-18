@@ -11,4 +11,7 @@ Basic_Level_to_advance_concept
 
 5. Various basic programs based on flow control(looping and switch case statement), break and continue statement.
 
-6. 
+6. Function, definition, declarationg and calling of with function....many examples based on functions.
+
+7. Concept of recursion. Problems based on recursion.
+
