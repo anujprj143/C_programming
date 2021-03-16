@@ -1,4 +1,4 @@
-/*P8.19 Bringing the smallest number at index zero.*/
+/*P8.19 Bringing the smallest number at index zero. */
 #include <stdio.h>
 #define MAX 100
 int main(void)
