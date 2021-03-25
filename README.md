@@ -7,7 +7,7 @@ Basic_Level_to_advance_concept
 
 3. getting started with C language......will be updated later..
 
-4. Various operators in C language.
+4. Programs based on various types of operators in C language.
 
 5. Various basic programs based on flow control(looping and switch case statement), break and continue statement.
 
@@ -16,4 +16,9 @@ Basic_Level_to_advance_concept
 7. Concept of recursion. Problems based on recursion.
 
 8. Array and some basic important programs using array. Sorting, Searching, and matrices operation.
+
+
+9. Programs based on Concepts of pointers are covered in this 9th chapter.. call by value, call by reference, pointers of pointer, 1D, 2D, 3D array, array of Pointers, Dynamic memory allocation etc.......
+
+10.
 
