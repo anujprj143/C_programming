@@ -8,6 +8,7 @@ int main(void)
 	printf("Number of words in string = %d\n",count_words(str));
 	return 0;
 }
+//function to count words
 int count_words(char *str)
 {
 	int count=0;
