@@ -20,5 +20,9 @@ Basic_Level_to_advance_concept
 
 9. Programs based on Concepts of pointers are covered in this 9th chapter.. call by value, call by reference, pointers of pointer, 1D, 2D, 3D array, array of Pointers, Dynamic memory allocation etc.......
 
-10.
+10. String concept building problems.
+
+11. Concepts of structure.... Problems based on structures
+
+12.
 
