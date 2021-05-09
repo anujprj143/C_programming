@@ -26,3 +26,7 @@ Basic_Level_to_advance_concept
 
 12. Concepts of file handling..... opening, reading, writing, copying and modifying a file...etc.
 
+13. Macro definitions and directive in C, 
+	1. Object like Macros
+	2. Fucntion like Marcos
+
