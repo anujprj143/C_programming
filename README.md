@@ -36,4 +36,7 @@ Basic_Level_to_advance_concept
 	3. Bitwise OR and XOR
 	4. Bitwise left/right shift operators  
 
-
+15. Enumeration, Storage Classes, Global and local variables and their scope....
+	Passing variable number of arguements to the function.
+	
+16. 
