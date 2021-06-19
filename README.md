@@ -30,3 +30,10 @@ Basic_Level_to_advance_concept
 	1. Object like Macros
 	2. Fucntion like Marcos
 
+14. Concepts of various bitwise operators.... 
+	1. Bitwise AND
+	2. Bitwise OR
+	3. Bitwise OR and XOR
+	4. Bitwise left/right shift operators  
+
+
