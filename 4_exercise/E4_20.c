@@ -1,4 +1,4 @@
-/*E4.20*/
+/*E4.20. A program to convert input temperature in celsius into Fahrenheit.*/
 #include<stdio.h>
 int main(void)
 {
