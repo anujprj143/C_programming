@@ -1,4 +1,4 @@
-/*E4.21*/
+/*E4.21. A program to Take radius as input and print the Area and perimeter of the circle.*/
 #include<stdio.h>
 int main(void)
 {
