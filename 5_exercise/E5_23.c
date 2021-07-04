@@ -1,4 +1,4 @@
-/*E5_23*/
+/*E5_23. For loop concept building exercise. */
 #include<stdio.h>
 int main(void)
 {
