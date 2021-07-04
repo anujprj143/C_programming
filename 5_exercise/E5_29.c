@@ -1,4 +1,4 @@
-/*E5_29*/
+/*E5_29. Simple Excercise on For loop.*/
 #include<stdio.h>
 int main(void)
 {
