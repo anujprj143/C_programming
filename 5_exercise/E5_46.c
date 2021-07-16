@@ -1,4 +1,4 @@
-/*E5_46*/
+/*E5_46. Formatting the output with modification in format specifier. */
 #include<stdio.h>
 int main(void)
 {
