@@ -1,4 +1,4 @@
-/*E5_57.*/ 
+/*E5_57.Program to find x raised power y (x^y).*/ 
 #include<stdio.h>
 int main(void)
 {
