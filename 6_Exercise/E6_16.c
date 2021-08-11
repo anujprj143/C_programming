@@ -1,4 +1,4 @@
-/*E6.16. defining function inside main function.*/
+/*E6.16. Defining function inside main function.*/
 #include<stdio.h>
 main()
 {
