@@ -1,4 +1,4 @@
-/*E6.15*/
+/*E6.15. function for finding squares..Observe the output.*/
 #include<stdio.h>
 int square1(int a);
 int square2(double a);
